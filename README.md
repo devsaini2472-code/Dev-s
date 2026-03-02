@@ -1,2 +1,2 @@
 # Dev-s
-It is the begining
+It is the begining.
